@@ -36,7 +36,7 @@ The **LLM Chatbot** is a Retrieval-Augmented Generation (RAG)-based application 
 
 ### 1. Clone the Repository
 
-    git clone https://github.com/quocbao2772004/Chatbot_MiniLM_Gemini.git
+    git clone https://github.com/quocbao2772004/ChatbotPLDC.git
     cd LLM
     
 Add gemini api to config.py file
